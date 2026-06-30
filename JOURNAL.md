@@ -1,10 +1,10 @@
 ## Week 7 — Issue selection
 
-**Issue link:** [paste link here]
+**Issue link:** [https://github.com/jamjamgobambam/pathreview/issues/98]
 
-**Issue title:** [paste issue title here]
+**Issue title:** **Add a character counter to the portfolio URL input field #98**
 
-**Tier:** [ ] Tier 1  [ ] Tier 2  [ ] Tier 3
+**Tier:** [x] Tier 1  [ ] Tier 2  [ ] Tier 3
 
 **Problem summary:**
 [In 3–5 sentences: What is the issue? Which part of the codebase does it

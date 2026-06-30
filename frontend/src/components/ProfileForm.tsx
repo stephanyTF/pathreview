@@ -28,7 +28,7 @@ export const ProfileForm: React.FC<ProfileFormProps> = ({ onSuccess }) => {
       newErrors.resume = 'Resume file must be under 10MB'
     }
 
-    if (portfolioUrl && portfolioUrl.length > 500) {
+    if (portfolioUrl && portfolioUrl.length > 500) { //ISSUE# 98: NEEDS A LIVE COUNTER (e.g., "312/500 characters")
       newErrors.portfolio = 'Portfolio URL must be 500 characters or less'
     }
 

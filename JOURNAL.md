@@ -7,11 +7,11 @@
 **Tier:** [x] Tier 1  [ ] Tier 2  [ ] Tier 3
 
 **Problem summary:**
-[In 3–5 sentences: What is the issue? Which part of the codebase does it
-affect? Why does it matter?]
+The API has a 500-character max limit for the portfolio URL input. It would be helpful if the frontend has a live character count feature for the user to know how many characters they've used. (e.g., "312/500 characters"). This would affect the front end and the issue lives in frontend/src/components/ProfileForm.tsx.
 
-**Branch name:** [paste branch name here]
 
-**Setup confirmation:** [ ] App runs locally at localhost:5173
+**Branch name:** feat/98-portfolio-url-char-counter
 
-**Cohort ledger:** [ ] Issue added to cohort ledger
+**Setup confirmation:** [X] App runs locally at localhost:5173
+
+**Cohort ledger:** (skip for TF)
